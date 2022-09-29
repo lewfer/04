@@ -5,7 +5,7 @@
  *           Any existing data will be lost!
  */
 
-# Make sure the databse is created before you run this script
+# Make sure the databese is created before you run this script
 #     CREATE DATABASE myforum;
 
 # Select the database
